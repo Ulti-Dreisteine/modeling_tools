@@ -22,6 +22,7 @@
 |-- pagerank                                            # PageRank算法
 |-- particle_diffusion_simulation                       # 颗粒扩散模型
 |-- pso_algorithm                                       # 粒子群优化算法
+|-- sentiment_analysis                                  # 语义分析LSTM
 
 ```
 
