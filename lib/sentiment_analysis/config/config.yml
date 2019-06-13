@@ -1,0 +1,5 @@
+model_params:
+  lr: 0.001                 # 学习率
+  epochs: 1000              # 学习代数
+  batch_size: 1024          # batch样本数
+  train_use_cuda: True      # 是否使用GPU加速
